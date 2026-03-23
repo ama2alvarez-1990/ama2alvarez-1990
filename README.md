@@ -8,7 +8,10 @@ Building the future where every AI model works as one unified intelligence.
 
 [![ARIS](https://img.shields.io/badge/ARIS-AI%20Operating%20System-6366f1?style=for-the-badge)](https://aris4u.dev)
 [![npm](https://img.shields.io/npm/v/aris-init?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/aris-init)
+
+[![LinkedIn](https://img.shields.io/badge/Amado%20Alvarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadoalvarez)
 [![Instagram](https://img.shields.io/badge/@ama2alvarez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ama2alvarez/)
+[![Website](https://img.shields.io/badge/aris4u.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aris4u.dev)
 
 </div>
 
@@ -32,12 +35,6 @@ Building the future where every AI model works as one unified intelligence.
 ```bash
 npx aris-init
 ```
-
-### Connect
-
-[![Website](https://img.shields.io/badge/aris4u.dev-000?style=flat-square&logo=google-chrome&logoColor=white)](https://aris4u.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ama2alvarez/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ama2alvarez-1990)
 
 ### Tech
 
