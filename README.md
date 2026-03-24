@@ -8,6 +8,7 @@ Building the future where every AI model works as one unified intelligence.
 
 [![ARIS](https://img.shields.io/badge/ARIS-AI%20Operating%20System-6366f1?style=for-the-badge)](https://aris4u.dev)
 [![npm](https://img.shields.io/npm/v/aris-init?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/aris-init)
+[![PyPI](https://img.shields.io/pypi/v/aris-mcp-server?style=for-the-badge&logo=pypi&color=3776AB)](https://pypi.org/project/aris-mcp-server/)
 
 [![LinkedIn](https://img.shields.io/badge/Amado%20Alvarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadoalvarez)
 [![Instagram](https://img.shields.io/badge/@ama2alvarez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ama2alvarez/)
@@ -23,17 +24,33 @@ Building the future where every AI model works as one unified intelligence.
 
 | Feature | What it does |
 |---------|-------------|
-| **19 MCP Tools** | Router, Guardian, Memory, Forge, Scout, Budget, Configure |
-| **53+ Skills** | Code review, security scanning, market research, financial modeling |
-| **Infinite Memory** | Context persists across sessions and across AI models |
-| **Auto-Evolution** | Discovers and integrates new tools every 24 hours |
-| **Privacy-First** | Sensitive data stays on your local models automatically |
-| **Task Routing** | Routes each subtask to the optimal AI model |
+| **66 Free Skills** | Code review, security scanning, market research, financial modeling, and more |
+| **23 MCP Tools** | Router, Guardian, Memory, Forge, Reactors, Deep Scan, Predictor, Verifier |
+| **16 AI Agents** | Orchestrator, Cluster Manager, Security, DevOps, and 12 more |
+| **5-Layer Verification** | Contracts, Sandbox, Consensus, Property Testing, Audit Chain |
+| **Impact Prediction** | Domino chain analysis — predict 100 steps before executing |
+| **Smart Routing** | Routes each subtask to the optimal AI model automatically |
+| **Privacy-First** | Sensitive data stays on your local models (PHI never leaves) |
+| **Kernel-Level Awareness** | Deep Scan reads /proc, /sys, NVML — not just shell commands |
+
+### Pricing
+
+| Tier | Price | What you get |
+|------|-------|-------------|
+| **Free** | $0 forever | All 66 skills, memory, 16 agents, 1 machine |
+| **[Pro](https://aris4u.dev/#pricing)** | $9.99/month | Everything + Router, Guardian, Forge, Reactors, Deep Scan, Security, Analytics, unlimited cluster |
 
 ### Install
 
 ```bash
+# Claude Code (recommended)
+claude mcp add aris -- npx aris-mcp
+
+# npm
 npx aris-init
+
+# pip
+pip install aris-mcp-server
 ```
 
 ### Tech
@@ -49,6 +66,6 @@ npx aris-init
 
 <div align="center">
 
-**Every AI model. One unified intelligence.**
+**Every AI model. One unified intelligence. [Get started free.](https://aris4u.dev)**
 
 </div>
