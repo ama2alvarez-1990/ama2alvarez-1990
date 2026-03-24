@@ -8,7 +8,8 @@ Building the future where every AI model works as one unified intelligence.
 
 [![ARIS](https://img.shields.io/badge/ARIS-AI%20Operating%20System-6366f1?style=for-the-badge)](https://aris4u.dev)
 [![npm](https://img.shields.io/npm/v/aris-init?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/aris-init)
-[![PyPI](https://img.shields.io/pypi/v/aris-mcp-server?style=for-the-badge&logo=pypi&color=3776AB)](https://pypi.org/project/aris-mcp-server/)
+[![Skills](https://img.shields.io/badge/skills-70-34d399?style=for-the-badge)](#what-im-building)
+[![MCP Tools](https://img.shields.io/badge/MCP%20tools-30-22d3ee?style=for-the-badge)](#what-im-building)
 
 [![LinkedIn](https://img.shields.io/badge/Amado%20Alvarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadoalvarez)
 [![Instagram](https://img.shields.io/badge/@ama2alvarez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ama2alvarez/)
@@ -20,47 +21,43 @@ Building the future where every AI model works as one unified intelligence.
 
 ### What I'm building
 
-**[ARIS](https://github.com/ama2alvarez-1990/aris)** is an AI Operating System that unifies Claude, GPT, Gemini, Grok, and Ollama into a single orchestrated intelligence:
+**[ARIS](https://github.com/aris4u-dev/aris)** is an AI Operating System that unifies Claude, GPT, Gemini, Grok, and Ollama into a single orchestrated intelligence:
 
 | Feature | What it does |
 |---------|-------------|
-| **66 Free Skills** | Code review, security scanning, market research, financial modeling, and more |
-| **23 MCP Tools** | Router, Guardian, Memory, Forge, Reactors, Deep Scan, Predictor, Verifier |
-| **16 AI Agents** | Orchestrator, Cluster Manager, Security, DevOps, and 12 more |
-| **5-Layer Verification** | Contracts, Sandbox, Consensus, Property Testing, Audit Chain |
-| **Impact Prediction** | Domino chain analysis — predict 100 steps before executing |
+| **70 Free Skills** | Code review, security scanning, market research, financial modeling, architecture review, lead generation, diagrams, and more |
+| **30 MCP Tools** | Router, Guardian, Memory, Forge, Reactors, Deep Scan, Predictor, Verifier, Budget, Analytics, Orchestrator |
+| **16 AI Agents** | Orchestrator, Cluster Manager, Security, DevOps, QA, Data, Scout, and more |
 | **Smart Routing** | Routes each subtask to the optimal AI model automatically |
-| **Privacy-First** | Sensitive data stays on your local models (PHI never leaves) |
-| **Kernel-Level Awareness** | Deep Scan reads /proc, /sys, NVML — not just shell commands |
+| **Update-Safe Customization** | Create custom skills and agents that survive product updates |
+| **Auto-Discovery** | Detects your hardware, GPU, cluster nodes, and installed models |
+| **Impact Prediction** | Domino chain analysis — predict downstream effects before executing |
+| **Privacy-First** | Sensitive data routes to local models automatically — never leaves your machine |
+| **Cluster Orchestration** | Turn multiple machines into one AI supercomputer via SSH |
+| **Works Everywhere** | Claude Code, Cursor, Windsurf, and any MCP-compatible host |
 
 ### Pricing
 
 | Tier | Price | What you get |
 |------|-------|-------------|
-| **Free** | $0 forever | All 66 skills, memory, 16 agents, 1 machine |
+| **Free** | $0 forever | All 70 skills, memory, 16 agents, 1 machine |
 | **[Pro](https://aris4u.dev/#pricing)** | $9.99/month | Everything + Router, Guardian, Forge, Reactors, Deep Scan, Security, Analytics, unlimited cluster |
 
 ### Install
 
 ```bash
-# Claude Code (recommended)
-claude mcp add aris -- npx aris-mcp
-
-# npm
 npx aris-init
-
-# pip
-pip install aris-mcp-server
 ```
+
+One command. Auto-detects your environment, installs 70 skills, connects to Claude Code. Done in 60 seconds.
 
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
