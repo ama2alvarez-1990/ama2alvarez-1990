@@ -14,7 +14,7 @@
 
 ### What is ARIS4U
 
-ARIS4U is a local AI co-processor I built to augment how I work. It runs entirely on a MacBook Pro — no cloud dependency for reasoning. It has its own knowledge brain (13K+ atoms across 66 domains), generates code in 6 frameworks in <5ms, scans for PHI/PII in <1ms, and orchestrates tasks across machines via SSH.
+ARIS4U is a local AI co-processor I built to augment how I work. It runs entirely on a MacBook Pro — no cloud dependency for reasoning. It has its own knowledge brain (13,000+ knowledge atoms—discrete, verified facts with provenance and cross-domain connections—spanning 66 domains), generates code in 6 frameworks in <5ms, scans for PHI/PII in <1ms, and orchestrates tasks across machines via SSH.
 
 It's not a product — it's the system I use every day to ship real projects faster than should be possible for one person.
 
@@ -27,7 +27,7 @@ These are real projects I've built using ARIS4U as my co-processor:
 | **[Flash-MoE](https://github.com/ama2alvarez-1990/flash-moe)** | Pure C/Metal engine that runs a 397B parameter model on a laptop at 4.4+ tok/s | 3,400+ stars — proved MoE inference is possible on consumer hardware |
 | **EMS1R** | Full-stack platform for the EMS industry (Spring Boot + React) | Production healthcare system with HIPAA compliance |
 | **Estrativa** | SaaS platform — grants management, compliance, CRM, federal funds intelligence | 20+ modules, 328 endpoints, SAM.gov + USAspending integration |
-| **LOTTO** | Mathematical exploitation engine — EV calculation, covering designs, roll-down arbitrage | Universal predictive core with domain adapters for EMS + business intelligence |
+| **EdgeCore** | Mathematical edge-finding engine — EV calculation, covering designs, structural exploitation of probabilistic systems | Universal predictive core with domain adapters (EMS, business intelligence, finance) |
 | **RadiCortex** | AI-powered radiology platform — DICOM, triage AI, claims management | FHIR/HL7 integration for healthcare delivery at scale |
 
 ### ARIS4U capabilities powering all of this
