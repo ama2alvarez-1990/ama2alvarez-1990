@@ -8,7 +8,7 @@ Building the future where every AI model works as one unified intelligence.
 
 [![ARIS](https://img.shields.io/badge/ARIS-AI%20Operating%20System-6366f1?style=for-the-badge)](https://aris4u.dev)
 [![npm](https://img.shields.io/npm/v/aris-init?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/aris-init)
-[![Skills](https://img.shields.io/badge/skills-70-34d399?style=for-the-badge)](#what-im-building)
+[![Skills](https://img.shields.io/badge/skills-25-34d399?style=for-the-badge)](#what-im-building)
 [![MCP Tools](https://img.shields.io/badge/MCP%20tools-30-22d3ee?style=for-the-badge)](#what-im-building)
 
 [![LinkedIn](https://img.shields.io/badge/Amado%20Alvarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadoalvarez)
@@ -25,7 +25,7 @@ Building the future where every AI model works as one unified intelligence.
 
 | Feature | What it does |
 |---------|-------------|
-| **70 Free Skills** | Code review, security scanning, market research, financial modeling, architecture review, lead generation, diagrams, and more |
+| **25 Core Skills** | Code review, security scanning, market research, financial modeling, architecture review, lead generation, diagrams, and more |
 | **30 MCP Tools** | Router, Guardian, Memory, Forge, Reactors, Deep Scan, Predictor, Verifier, Budget, Analytics, Orchestrator |
 | **16 AI Agents** | Orchestrator, Cluster Manager, Security, DevOps, QA, Data, Scout, and more |
 | **Smart Routing** | Routes each subtask to the optimal AI model automatically |
@@ -40,7 +40,7 @@ Building the future where every AI model works as one unified intelligence.
 
 | Tier | Price | What you get |
 |------|-------|-------------|
-| **Free** | $0 forever | All 70 skills, memory, 16 agents, 1 machine |
+| **Free** | $0 forever | All 25 skills, memory, 16 agents, 1 machine |
 | **[Pro](https://aris4u.dev/#pricing)** | $9.99/month | Everything + Router, Guardian, Forge, Reactors, Deep Scan, Security, Analytics, unlimited cluster |
 
 ### Install
@@ -49,7 +49,18 @@ Building the future where every AI model works as one unified intelligence.
 npx aris-init
 ```
 
-One command. Auto-detects your environment, installs 70 skills, connects to Claude Code. Done in 60 seconds.
+One command. Auto-detects your environment, installs 25 skills, connects to Claude Code. Done in 60 seconds.
+
+### Published Tools
+
+Core tools powering ARIS and available open source:
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **autotemp** | PID-controlled LLM inference parameter tuning — dynamically optimize temperature, top-k, and top-p for quality vs latency tradeoffs | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/autotemp) |
+| **silicon-bench** | AI inference benchmarks for Apple Silicon — M-series performance profiling, thermal analysis, and optimization recommendations | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/silicon-bench) |
+| **distill-context** | Information-theoretic context compression for LLMs — reduce context size while preserving semantic information | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/distill-context) |
+| **sentinel-deps** | Multi-validator dependency security with Byzantine consensus — detect supply-chain attacks across dependency trees | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/sentinel-deps) |
 
 ### Tech
 
