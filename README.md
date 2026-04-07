@@ -2,14 +2,7 @@
 
 # Amado Alvarez
 
-**Founder & CTO of [ARIS](https://aris4u.dev) — The AI Operating System**
-
-Building the future where every AI model works as one unified intelligence.
-
-[![ARIS](https://img.shields.io/badge/ARIS-AI%20Operating%20System-6366f1?style=for-the-badge)](https://aris4u.dev)
-[![npm](https://img.shields.io/npm/v/aris-init?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/aris-init)
-[![Skills](https://img.shields.io/badge/skills-25-34d399?style=for-the-badge)](#what-im-building)
-[![MCP Tools](https://img.shields.io/badge/MCP%20tools-30-22d3ee?style=for-the-badge)](#what-im-building)
+**Builder of [ARIS4U](https://aris4u.dev) — A local AI system that thinks, reasons across domains, and builds itself.**
 
 [![LinkedIn](https://img.shields.io/badge/Amado%20Alvarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amadoalvarez)
 [![Instagram](https://img.shields.io/badge/@ama2alvarez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ama2alvarez/)
@@ -19,61 +12,69 @@ Building the future where every AI model works as one unified intelligence.
 
 ---
 
-### What I'm building
+### What is ARIS4U
 
-**[ARIS](https://github.com/aris4u-dev/aris)** is an AI Operating System that unifies Claude, GPT, Gemini, Grok, and Ollama into a single orchestrated intelligence:
+ARIS4U is a local AI co-processor I built to augment how I work. It runs entirely on a MacBook Pro — no cloud dependency for reasoning. It has its own knowledge brain (13K+ atoms across 66 domains), generates code in 6 frameworks in <5ms, scans for PHI/PII in <1ms, and orchestrates tasks across machines via SSH.
 
-| Feature | What it does |
-|---------|-------------|
-| **25 Core Skills** | Code review, security scanning, market research, financial modeling, architecture review, lead generation, diagrams, and more |
-| **30 MCP Tools** | Router, Guardian, Memory, Forge, Reactors, Deep Scan, Predictor, Verifier, Budget, Analytics, Orchestrator |
-| **16 AI Agents** | Orchestrator, Cluster Manager, Security, DevOps, QA, Data, Scout, and more |
-| **Smart Routing** | Routes each subtask to the optimal AI model automatically |
-| **Update-Safe Customization** | Create custom skills and agents that survive product updates |
-| **Auto-Discovery** | Detects your hardware, GPU, cluster nodes, and installed models |
-| **Impact Prediction** | Domino chain analysis — predict downstream effects before executing |
-| **Privacy-First** | Sensitive data routes to local models automatically — never leaves your machine |
-| **Cluster Orchestration** | Turn multiple machines into one AI supercomputer via SSH |
-| **Works Everywhere** | Claude Code, Cursor, Windsurf, and any MCP-compatible host |
+It's not a product — it's the system I use every day to ship real projects faster than should be possible for one person.
 
-### Pricing
+### What one person + ARIS4U can build
 
-| Tier | Price | What you get |
-|------|-------|-------------|
-| **Free** | $0 forever | All 25 skills, memory, 16 agents, 1 machine |
-| **[Pro](https://aris4u.dev/#pricing)** | $9.99/month | Everything + Router, Guardian, Forge, Reactors, Deep Scan, Security, Analytics, unlimited cluster |
+These are real projects I've built using ARIS4U as my co-processor:
 
-### Install
+| Project | What it is | Impact |
+|---------|-----------|--------|
+| **[Flash-MoE](https://github.com/ama2alvarez-1990/flash-moe)** | Pure C/Metal engine that runs a 397B parameter model on a laptop at 4.4+ tok/s | 3,400+ stars — proved MoE inference is possible on consumer hardware |
+| **EMS1R** | Full-stack platform for the EMS industry (Spring Boot + React) | Production healthcare system with HIPAA compliance |
+| **Estrativa** | SaaS platform — grants management, compliance, CRM, federal funds intelligence | 20+ modules, 328 endpoints, SAM.gov + USAspending integration |
+| **LOTTO** | Mathematical exploitation engine — EV calculation, covering designs, roll-down arbitrage | Universal predictive core with domain adapters for EMS + business intelligence |
+| **RadiCortex** | AI-powered radiology platform — DICOM, triage AI, claims management | FHIR/HL7 integration for healthcare delivery at scale |
 
-```bash
-npx aris-init
-```
+### ARIS4U capabilities powering all of this
 
-One command. Auto-detects your environment, installs 25 skills, connects to Claude Code. Done in 60 seconds.
+| Capability | What it does |
+|-----------|-------------|
+| **UltraThink** | 5-pillar bio-inspired reasoning engine — thinks without calling external LLMs |
+| **Protein NLG** | Generates language from knowledge atoms like DNA builds proteins — zero hallucination |
+| **25 Native Skills** | Security scanning, code review, deployment, monitoring — all local, zero API cost |
+| **30 MCP Tools** | Router, Memory, Forge, PHI Shield, Deep Scan, Analytics, Orchestrator |
+| **CodeForge** | Observes code patterns, generates templates, builds its own tools autonomously |
+| **PHI Shield** | HIPAA/GDPR/PCI-DSS pattern scanner in <1ms — patient data never leaves the machine |
+| **Smart Routing** | Routes tasks to optimal model (local Ollama, Claude, Gemini, Grok) based on complexity + privacy |
+| **Cluster Orchestration** | Turns multiple machines into one AI compute pool via SSH |
 
-### Published Tools
+### Open-source tools
 
-Core tools powering ARIS and available open source:
+Standalone tools extracted from the ARIS4U ecosystem, each solving a universal problem:
 
-| Tool | Description | Link |
-|------|-------------|------|
-| **autotemp** | PID-controlled LLM inference parameter tuning — dynamically optimize temperature, top-k, and top-p for quality vs latency tradeoffs | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/autotemp) |
-| **silicon-bench** | AI inference benchmarks for Apple Silicon — M-series performance profiling, thermal analysis, and optimization recommendations | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/silicon-bench) |
-| **distill-context** | Information-theoretic context compression for LLMs — reduce context size while preserving semantic information | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/distill-context) |
-| **sentinel-deps** | Multi-validator dependency security with Byzantine consensus — detect supply-chain attacks across dependency trees | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ama2alvarez-1990/sentinel-deps) |
+| Tool | Description |
+|------|-------------|
+| [**flash-moe**](https://github.com/ama2alvarez-1990/flash-moe) | Run 397B MoE models on consumer hardware — C/Metal inference engine |
+| [**autotemp**](https://github.com/ama2alvarez-1990/autotemp) | PID-controlled LLM inference parameter tuning |
+| [**silicon-bench**](https://github.com/ama2alvarez-1990/silicon-bench) | AI inference benchmarks for Apple Silicon (M1-M5) |
+| [**distill-context**](https://github.com/ama2alvarez-1990/distill-context) | Information-theoretic context compression for LLMs |
+| [**sentinel-deps**](https://github.com/ama2alvarez-1990/sentinel-deps) | Multi-validator dependency security with Byzantine consensus |
+| [**phi-shield**](https://github.com/ama2alvarez-1990/phi-shield) | Ultra-fast PHI/PII detection — 45 patterns, <1ms |
 
-### Tech
+### Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Metal](https://img.shields.io/badge/Metal-000000?style=flat-square&logo=apple&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MLX](https://img.shields.io/badge/MLX-000000?style=flat-square&logo=apple&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Every AI model. One unified intelligence. [Get started free.](https://aris4u.dev)**
+*One person. One local AI system. Real products shipping.*
 
 </div>
